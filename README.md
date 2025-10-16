@@ -1,4 +1,10 @@
-## Hi there 👋
+## About Me
+I'm Naomi Ohashi, a Data Scientist/AI-ML Engineer working in Python, focusing on extracting insights from data and building intelligent systems.   
+
+## 🚀 Top Open-Source Projects
+https://github.com/ohashin2G/portfolio
+
+
 
 <!--
 **ohashin2G/ohashin2G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
